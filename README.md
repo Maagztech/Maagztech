@@ -28,7 +28,7 @@
 <a href="https://stackoverflow.com/users/asutosh-pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="asutosh-pradhan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/a_pradhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a_pradhan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/asutoshpradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asutoshpradhan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asutosh-pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asutosh-pradhan" height="30" width="40" /></a>
+<a href="https://www.interviewbit.com/profile/asutosh-pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asutosh-pradhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
